@@ -118,10 +118,10 @@ jobs:
           title: "Enmity v${{ steps.version.outputs.__ENMITY_VERSION }}"
           files: out/*
 
-        app-repo:
+  app-repo:
     continue-on-error: true
     runs-on: macos-14
-    needs: release-app
+    needs: build
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
