@@ -19,36 +19,6 @@
             "iconURL": "https://enmity-mod.github.io/repo/CydiaIcon@3x.png",
             "tintColor": "#6D00FF",
             "category": "utilities",
-            "screenshots": {
-                "iphone": [
-                    "https://enmity-mod.github.io/repo/screenshots_iphone/chat.png",
-                    "https://enmity-mod.github.io/repo/screenshots_iphone/plugins.png",
-                    "https://enmity-mod.github.io/repo/screenshots_iphone/profile.png",
-                    "https://enmity-mod.github.io/repo/screenshots_iphone/settings.png"
-                ],
-                "ipad": [
-                    {
-                        "imageURL": "https://enmity-mod.github.io/repo/screenshots_ipad/chat.png",
-                        "width": 1000,
-                        "height": 692
-                    },
-                    {
-                        "imageURL": "https://enmity-mod.github.io/repo/screenshots_ipad/plugins.png",
-                        "width": 1000,
-                        "height": 692
-                    },
-                    {
-                        "imageURL": "https://enmity-mod.github.io/repo/screenshots_ipad/profile.png",
-                        "width": 1000,
-                        "height": 692
-                    },
-                    {
-                        "imageURL": "https://enmity-mod.github.io/repo/screenshots_ipad/settings.png",
-                        "width": 1000,
-                        "height": 692
-                    }
-                ]
-            },
             "versions": [
                 {
                     "version": "243.1",
