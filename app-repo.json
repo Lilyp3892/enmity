@@ -51,12 +51,48 @@
             },
             "versions": [
                 {
-                    "version": "234.0",
-                    "date": "2024-06-23T20:22:17-05:00",
-                    "localizedDescription": "Update Discord to 234.0",
-                    "downloadURL": "https://github.com/enmity-mod/tweak/releases/latest/download/Enmity.ipa",
-                    "size": 110987837,
-                    "minOSVersion": "14.0"
+                    "version": "243.1",
+                    "date": "2024-08-23",
+                    "localizedDescription": "Update Discord to 243.1",
+                    "downloadURL": "https://github.com/allorionmusic/enmity/releases/download/v243.1/Enmity.ipa",
+                    "size": 117033110,
+                    "minOSVersion": "15.0"
+                },
+
+                {
+                    "version": "243.0",
+                    "date": "2024-08-22",
+                    "localizedDescription": "Update Discord to 243.0",
+                    "downloadURL": "https://github.com/allorionmusic/enmity/releases/download/v243/Enmity.ipa",
+                    "size": 115812774,
+                    "minOSVersion": "15.0"
+                },
+
+                {
+                    "version": "242.1",
+                    "date": "2024-08-20",
+                    "localizedDescription": "Update Discord to 242.1",
+                    "downloadURL": "https://github.com/allorionmusic/enmity/releases/download/v242.1/Enmity.ipa",
+                    "size": 115695398,
+                    "minOSVersion": "15.0"
+                },
+
+                {
+                    "version": "242.0",
+                    "date": "2024-08-14",
+                    "localizedDescription": "Update Discord to 242.0",
+                    "downloadURL": "https://github.com/allorionmusic/enmity/releases/download/v242/Enmity.ipa",
+                    "size": 115694961,
+                    "minOSVersion": "15.0"
+                },
+
+                {
+                    "version": "241.0",
+                    "date": "2024-08-09",
+                    "localizedDescription": "Update Discord to 241.0",
+                    "downloadURL": "https://github.com/allorionmusic/enmity/releases/download/v241/Enmity.ipa",
+                    "size": 108520359,
+                    "minOSVersion": "15.0"
                 }
             ],
             "appPermissions": {
@@ -85,4 +121,4 @@
             }
         }
     ]
-}
+}    
