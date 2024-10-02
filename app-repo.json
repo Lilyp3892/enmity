@@ -21,6 +21,15 @@
             "category": "utilities",
             "versions": [
                 {
+                    "version": "249.0",
+                    "date": "2024-10-02",
+                    "localizedDescription": "Update Discord to 249.0",
+                    "downloadURL": "https://github.com/allorionmusic/enmity/releases/download/v249/Enmity.ipa",
+                    "size": 104303832,
+                    "minOSVersion": "15.0"
+                },
+
+                {
                     "version": "248.0",
                     "date": "2024-09-23",
                     "localizedDescription": "Update Discord to 248.0",
